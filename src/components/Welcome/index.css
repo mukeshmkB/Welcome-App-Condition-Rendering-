@@ -1,0 +1,29 @@
+.bg-welcome-container {
+  background-color: #1e293b;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.greeting-title {
+  font-family: Bree Serif;
+  font-size: 54px;
+  font-weight: bold;
+  color: #f0bb03;
+}
+.thankyou-greet {
+  font-family: Bree Serif;
+  font-size: 34px;
+  font-weight: bold;
+  color: #ffffff;
+}
+
+.subscribe-btn {
+  padding: 10px;
+  font-family: Bree Serif;
+  font-size: 14px;
+  border: none;
+  color: #1e293b;
+  border-radius: 6px;
+}
